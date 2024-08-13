@@ -13,7 +13,7 @@ function App() {
       <BrowserRouter>
           <Routes>
               <Route path='/' element={<Home/>}/>
-              <Route path='/datainfo' element={<DataInfo/>}/>
+              <Route path='/carriersafety-app' element={<DataInfo/>}/>
           </Routes>
       
       </BrowserRouter>
